@@ -6,7 +6,6 @@
   "devDependencies": {
     "tape": "~2.5.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "tape test.js"
   },
@@ -15,6 +14,8 @@
     "url": "https://github.com/mmckegg/soundbank-slice.git"
   },
   "keywords": [
+    "soundbank",
+    "provider",
     "slice",
     "audio",
     "loop",
