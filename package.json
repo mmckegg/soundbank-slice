@@ -1,0 +1,33 @@
+{
+  "name": "soundbank-slice",
+  "version": "0.0.0",
+  "description": "Use with soundbank-inherit to slice an audio sample across the desired amount of audio-slots.",
+  "main": "index.js",
+  "devDependencies": {
+    "tape": "~2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmckegg/soundbank-slice.git"
+  },
+  "keywords": [
+    "slice",
+    "audio",
+    "loop",
+    "rex",
+    "waapi",
+    "sample",
+    "buffer",
+    "offset"
+  ],
+  "author": "Matt McKegg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmckegg/soundbank-slice/issues"
+  },
+  "homepage": "https://github.com/mmckegg/soundbank-slice"
+}
