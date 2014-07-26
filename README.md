@@ -15,7 +15,7 @@ $ npm install soundbank-slice
 
 ```js
 var Soundbank = require('soundbank')
-var audioContext = new webkitAudioContext()
+var audioContext = new AudioContext()
 
 audioContext.providers = {
   inherit: require('soundbank-inherit'),
