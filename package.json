@@ -1,6 +1,6 @@
 {
   "name": "soundbank-slice",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Use with soundbank-inherit to slice an audio sample across the desired amount of audio-slots.",
   "main": "index.js",
   "devDependencies": {
